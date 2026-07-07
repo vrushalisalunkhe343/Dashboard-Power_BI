@@ -28,4 +28,9 @@ Dashboard Design
 Business Value
 
 The dashboard helps gym owners and fitness managers monitor member performance, identify workout trends, personalize fitness plans, and make informed business decisions to improve member engagement and retention.
+## Dashboard Preview
+
+The screenshot below demonstrates the interactive Power BI dashboard, featuring KPIs, workout analysis, BMI trends, calorie burn, heart rate metrics, hydration analysis, and experience-level insights.
+
+![Gym Members Dashboard]()
 
