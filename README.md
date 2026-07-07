@@ -32,5 +32,5 @@ The dashboard helps gym owners and fitness managers monitor member performance, 
 
 The screenshot below demonstrates the interactive Power BI dashboard, featuring KPIs, workout analysis, BMI trends, calorie burn, heart rate metrics, hydration analysis, and experience-level insights.
 
-![Gym Members Dashboard]()
+![Gym Members Dashboard](https://github.com/vrushalisalunkhe343/Dashboard-Power_BI/blob/main/Dashboard.png)
 
